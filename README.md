@@ -1,4 +1,6 @@
 # Markdown
+![texto alternativo](1000382564.jpg)
+
 ¿Qué es Markdown?
 
 Markdown es un lenguaje de marcado ligero que permite crear texto con formato utilizando una sintaxis simple y legible.

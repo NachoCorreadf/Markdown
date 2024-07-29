@@ -20,8 +20,7 @@ Otras características
 - Código: Código
 - Citaciones: > Texto
 - Tablas: | Columna 1 | Columna 2 |
-
-Ventajas
+- Ventajas
 
 - Fácil de leer y escribir
 - Compatible con HTML
@@ -71,4 +70,11 @@ Herramientas y recursos
 - Convertidores de Markdown: Pandoc, Markdown Converter
 - Guías y tutoriales: Markdown Guide, Learn Markdown
 
-- 
+  Ejemplo de este lenguaje en accion:
+
+~~~~
+- Tuki
+~~~~
+
+ - Tuki
+

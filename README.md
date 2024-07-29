@@ -1,5 +1,5 @@
 # Markdown
-<img src="1000382564.jpg" alt="texto alternativo" width="150" height="100">
+<img src="1000382564.jpg" alt="texto alternativo" width="200" height="100">
 
 ¿Qué es Markdown?
 
